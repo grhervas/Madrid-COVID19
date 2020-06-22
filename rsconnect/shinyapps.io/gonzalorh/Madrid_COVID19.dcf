@@ -1,0 +1,10 @@
+name: Madrid_COVID19
+title:
+username:
+account: gonzalorh
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2422205
+bundleId: 3239505
+url: https://gonzalorh.shinyapps.io/Madrid_COVID19/
+when: 1591562506.07632
